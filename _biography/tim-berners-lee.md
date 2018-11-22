@@ -11,7 +11,9 @@ tags:
   - Vannevar Bush
   - Ted Nelson
   - Douglas Englebart
+ gallery:
  
+  - image_url: /images/tim-berners-lee.png
 
 ---
 
